@@ -1,0 +1,8 @@
+{
+  "latestVersion": "2",
+  "latestVersionCode": 2,
+  "url": "http://172.30.7.137:8080/publish/android/publishDebug.htm",
+  "releaseNotes": [
+    "Testing App updater"
+  ]
+}
